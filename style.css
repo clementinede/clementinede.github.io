@@ -9,7 +9,14 @@ color: #0000FF;}
 h2 {
 font-family: Verdana, Arial, Helvetica, sans-serif;
 font-weight:bold;
-color:#005050;}
+color:#005050;
+background:rgb(204,204,255);
+padding: 10px;
+border: 1px solid #000000;}
+span {
+  border: 1px solid #000000;
+  padding: 2px;
+}
 #right-column {
 font-family:Verdana, Arial, Helvetica, sans-serif;
 font-weight: bold;
